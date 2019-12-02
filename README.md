@@ -5,9 +5,9 @@ Project Members
 Trey Younce and Darian Madere
 
 Goals 
-- determine which genre of movie makes the most money and which genre has the highest ratings
+- determine which genre of movie generates the largest amount of net profit and which genre has the highest ratings
 
-Responsabilities
+Responsibilities
 Darian:
 - make project work plan
 - clean tmdb.movies.csv
