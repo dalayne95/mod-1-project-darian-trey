@@ -18,3 +18,15 @@ Trey:
 - clean tn.movie_budgets.csv
 - make genre vs net revenue vizualization
 
+Work Plan 
+1. Define questions:
+    - Questions to Answer:
+        - What movie genres are the most successful?
+          - Genre vs average ratings
+          - Genre vs net revenue
+2. Pick datasets to use
+3. Assign and clean datasets 
+4. Revisit cleaned datasets together
+5. Statistical analysis 
+6. Make graphics together 
+7. Make powerpoint together 
