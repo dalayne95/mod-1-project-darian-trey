@@ -30,3 +30,8 @@ Work Plan
 5. Statistical analysis 
 6. Make graphics together 
 7. Make powerpoint together 
+
+Files 
+1. 
+2. 
+3.
