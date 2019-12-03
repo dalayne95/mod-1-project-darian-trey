@@ -11,12 +11,12 @@ Responsibilities
 Darian:
 - make project work plan
 - clean bom.movie_gross.csv
-- make Studio vs Profit viualization
+- make Studio vs Profit visualization
 
 
 Trey: 
 - clean tn.movie_budgets.csv
-- make genre vs net revenue vizualization
+- make Budget vs Revenue visualization
 
 Work Plan 
 1. Define questions:
