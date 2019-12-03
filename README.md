@@ -10,8 +10,8 @@ Goals
 Responsibilities
 Darian:
 - make project work plan
-- clean tmdb.movies.csv
-- make genre vs average ratings vizualization
+- clean bom.movie_gross.csv
+- make Studio vs Profit viualization
 
 
 Trey: 
@@ -20,10 +20,11 @@ Trey:
 
 Work Plan 
 1. Define questions:
-    - Questions to Answer:
-        - What movie genres are the most successful?
-          - Genre vs average ratings
-          - Genre vs net revenue
+    - What movies are the most successful?
+        - Budget vs revenue
+        - Release date vs revenue
+        - Studio vs profit
+        - Month released vs revenue
 2. Pick datasets to use
 3. Assign and clean datasets 
 4. Revisit cleaned datasets together
@@ -32,6 +33,6 @@ Work Plan
 7. Make powerpoint together 
 
 Files 
-1. 
-2. 
+1. tn.movie_budget.csv
+2. bom.movie_gross.csv
 3.
