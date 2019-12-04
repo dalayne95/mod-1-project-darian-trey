@@ -6,8 +6,8 @@ Trey Younce and Darian Madere
 Goals 
 - Determine which studios are the top cepompetitors based on revenue generated
 - Determine where movie revenue is growing the fastest - domestic or worldwide?
-- 
-- 
+- Recommend budget parameters 
+- Recommend months in which movies should be released domestically vs worldwide
 
 Responsibilities
 Darian:
@@ -19,8 +19,8 @@ Darian:
 Trey: 
 - clean tn.movie_budgets.csv
 - make Budget vs Revenue visualization
-- 
-- 
+- Determine which production budget provides the least risk
+- Determine if movie releases should be scheduled for specific months depending on geographic location
 
 Work Plan 
 1. Define questions:
@@ -44,3 +44,4 @@ Files
 2. Technical notebook
 3. Data files
 4. .gitignore
+5. Darian + Trey Presentation
